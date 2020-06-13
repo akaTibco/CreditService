@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/creditservice.p_CreditService-Credit.json",
+        "type": "generated"
+    }]
+}
