@@ -995,7 +995,7 @@
 
                                     <layoutConstraint
                                     x="203"
-                                    xsi:type="notation:Bounds" y="109"/>
+                                    xsi:type="notation:Bounds" y="76"/>
                                     </children>
 
                                     <children type="4002">
