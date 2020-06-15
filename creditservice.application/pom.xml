@@ -78,6 +78,9 @@
                 <ports>
                   <port>${bwdocker.port.p0}</port>
                 </ports>
+                <links>
+                  <link>${bwdocker.link.l0}</link>
+                </links>
                 <envPropertyFile>${docker.env.property.file}</envPropertyFile>
               </run>
             </image>
