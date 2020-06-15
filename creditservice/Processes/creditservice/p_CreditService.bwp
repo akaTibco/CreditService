@@ -994,8 +994,8 @@
                                     <element href="//0/@process/@activity/@activity/@activities.0/@messages.0/@activity/@activity/@activities.4/@activities.3"/>
 
                                     <layoutConstraint
-                                    x="203"
-                                    xsi:type="notation:Bounds" y="76"/>
+                                    x="179"
+                                    xsi:type="notation:Bounds" y="109"/>
                                     </children>
 
                                     <children type="4002">
